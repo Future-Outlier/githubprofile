@@ -25,10 +25,10 @@
 
 <p align=center>
     <a href="https://github.com/amundsen-io/amundsen">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amundsen-io&repo=amundsen&theme=vue-dark" />
+      <img align="center" src="https://github-readme-stats-ivory-eight.vercel.app/api/pin/?username=amundsen-io&repo=amundsen&theme=vue-dark" />
     </a>
     <a href="https://github.com/chonyy/AI-basketball-analysis">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chonyy&repo=AI-basketball-analysis&theme=vue-dark" />
+      <img align="center" src="https://github-readme-stats-ivory-eight.vercel.app/api/pin/?username=chonyy&repo=AI-basketball-analysis&theme=vue-dark" />
     </a>
 </p>
 
